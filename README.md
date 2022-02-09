@@ -5,7 +5,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
 
 ---
-<img src='https://media.giphy.com/media/eexDjAAdEebSFsOmeP/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Flix Part 1
 
@@ -21,7 +20,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [X] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-<img src='https://media.giphy.com/media/eexDjAAdEebSFsOmeP/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= "https://media.giphy.com/media/M4NMiPd9cbC28QhqMo/giphy.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Notes
 Describe any challenges encountered while building the app.
